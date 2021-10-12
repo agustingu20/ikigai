@@ -1,0 +1,43 @@
+.title {
+  /* font-family: "Julius Sans One", sans-serif; */
+  font-family: "Bonheur Royale", cursive;
+  letter-spacing: 5px;
+  color: white;
+  font-size: 6rem;
+}
+
+.title2 {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 1.3rem;
+}
+
+.proverbio {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.proverbio1 {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.second-container {
+  font-family: "Playfair Display", serif;
+  font-size: 15px;
+  border: white 2px solid;
+  border-radius: 10px;
+  padding: 1rem;
+  background-color: white;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.text-container {
+  padding: 3rem;
+  width: 700px;
+  text-align: justify;
+  background-color: rgba(173, 115, 49, 0.61);
+}
