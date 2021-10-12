@@ -41,3 +41,10 @@
   text-align: justify;
   background-color: rgba(173, 115, 49, 0.61);
 }
+
+li,
+ol {
+  margin: 8px;
+  padding: 0;
+  text-align: start;
+}
